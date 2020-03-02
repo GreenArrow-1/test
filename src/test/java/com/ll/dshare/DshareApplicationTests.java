@@ -11,7 +11,7 @@ class DshareApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("666");
+        System.out.println("777");
     }
 
 }
